@@ -1,0 +1,27 @@
+body{
+    font-family: Cosmic Sans MS, sans-serif;
+    background-color: grey;
+
+}
+table{
+    background-color: #a6b9cf;
+}
+
+.myClass {
+    font-family: 'Anton', sans-serif;
+}
+.img{
+    height: 500px;
+}
+input[type="date"]{
+    width: 100%;
+}
+.td{
+    font-family: 'Black Han Sans', sans-serif;
+}
+.Aminities{
+    background-image:linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    height: 30px;
+    font-size: 30px;
+    font-family: 'Varela Round', sans-serif;
+}
